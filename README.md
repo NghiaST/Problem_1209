@@ -1,2 +1,2 @@
 # trial
-THPT Chuyên Bình Long
+[THPT Chuyên Bình Long](/chat.cpp)
